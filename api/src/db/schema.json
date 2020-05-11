@@ -1,0 +1,8 @@
+{
+  "team":{
+    "id": "string",
+    "createdAt": "number",
+    "name": "string",
+    "sport": "string"
+  }
+}

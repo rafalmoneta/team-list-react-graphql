@@ -1,0 +1,46 @@
+{
+  "team": [
+    {
+      "id": "ksAKwGHasadas4mKHTYd01MrTT8",
+      "createdAt": 1588944546751,
+      "name": "FC Barcelona",
+      "sport": "FOOTBALL",
+      "img": "https://0.allegroimg.com/s512/033112/e78871c74a04ad7e5d206f10cbe0/NAKLEJKA-NA-SCIANE-FC-BARCELONA-BARCA-MESSI-70-CM"
+    },
+    {
+      "id": "XX7RnV1xsZi2oQ5Cf4lFb",
+      "createdAt": 1589206951153,
+      "name": "New York Knicks",
+      "sport": "BASKETBALL",
+      "img": "https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/nyk.png"
+    },
+    {
+      "id": "ksAKwGHasadsasaas4mKHTYd01MrTT8",
+      "createdAt": 1588944546751,
+      "name": "Real Madrid",
+      "sport": "FOOTBALL",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png"
+    },
+    {
+      "id": "ksAKwGHasadssdsasaas4mKHTYd01MrTT8",
+      "createdAt": 1588944546751,
+      "name": "G2 E-SPORT",
+      "sport": "ESPORT",
+      "img": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/7/77/G2_Esportslogo_square.png"
+    },
+    {
+      "id": "6jg4rMzKc6pod-2q1Mdkl",
+      "createdAt": 1589206869725,
+      "name": "Borussia Dortmund",
+      "sport": "FOOTBALL",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+    },
+    {
+      "id": "P5ydJLH-H4pa-6-UsC4S3",
+      "createdAt": 1589207723192,
+      "name": "Manchester City",
+      "sport": "FOOTBALL",
+      "img": "https://resources.premierleague.com/premierleague/badges/t43.svg"
+    }
+  ]
+}
